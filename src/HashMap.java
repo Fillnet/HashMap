@@ -15,8 +15,6 @@ public class HashMap {
              phoneBook.getEntries()) {
             System.out.printf("Имя Фамилия:  %s , телефон:  +79%s\n",entry.getKey(),entry.getValue());
         }
-// разбор 1.51 минута
-
 
     }
 //генертаор случайного имени
